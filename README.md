@@ -13,7 +13,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone [https://github.com/yourusername/portfolio.git](https://github.com/preethims6362/portfolio.git)
+git clone (https://github.com/preethims6362/portfolio.git)
 cd portfolio
 Open the index.html file in your web browser to view the portfolio.
 
